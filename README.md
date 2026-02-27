@@ -108,37 +108,37 @@ Security was the primary focus of this project. Below are the security measures 
  
 ---
 
-### Screenshot 1
+### Web-App UI
 ![Screenshot 1](https://github.com/user-attachments/assets/a093f9fc-286e-44fe-94f9-0de0eb95e98a)
 
-### Screenshot 2
+### EC2 Backend Server 
 ![Screenshot 2](https://github.com/user-attachments/assets/0db22f27-c58b-47bb-8d2d-015a9f178d66)
 
-### Screenshot 3
+### Database showcase 
 ![Screenshot 3](https://github.com/user-attachments/assets/9ab209df-bdbe-497d-9793-5b4f9759798b)
 
-### Screenshot 4
+### RDS
 ![Screenshot 4](https://github.com/user-attachments/assets/31919fd2-a5f7-4590-9e57-3b7703943eb9)
 
-### Screenshot 5
+### VPC
 ![Screenshot 5](https://github.com/user-attachments/assets/3e418948-ee0b-44fc-8444-6dea3d2e5248)
 
-### Screenshot 6
+### Subnet
 ![Screenshot 6](https://github.com/user-attachments/assets/1f094774-a525-468f-b0e4-5020b2d4cca8)
 
-### Screenshot 7
+### Routes Tables 
 ![Screenshot 7](https://github.com/user-attachments/assets/2931fd84-f126-4949-9072-1703e70d0896)
 
-### Screenshot 8
+### Internet Gateway
 ![Screenshot 8](https://github.com/user-attachments/assets/1f394372-2e32-4b12-ba1d-4cb5c400729f)
 
-### Screenshot 9
+### NAT Gatway
 ![Screenshot 9](https://github.com/user-attachments/assets/971be248-a3c8-4836-a8e7-3f8672fff3f2)
 
-### Screenshot 10
+### Instance 
 ![Screenshot 10](https://github.com/user-attachments/assets/84bc05d1-fb0a-4a4b-ba4f-d74eaeaca708)
 
-### Screenshot 11
+### Security Group
 ![Screenshot 11](https://github.com/user-attachments/assets/3fbdea42-82fa-45d2-bf66-f4586a728245)
 
  
